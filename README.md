@@ -7,7 +7,8 @@ A simple template for you to use Electron + React + NextUI together.
 -   Use React for creating interfaces
 -   Use `react-router-dom` for routing
 -   Use NextUI for componets which based on TailwindCSS and Framer Motion.
--   Use TailwindCSS for styling
+-   Use TailwindCSS for styling.
+-   Support devtools for easy debuging by default.
 
 # Insatllation
 
