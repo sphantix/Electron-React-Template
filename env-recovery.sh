@@ -1,0 +1,1 @@
+yarn config set registry https://registry.yarnpkg.com
